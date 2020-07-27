@@ -2,7 +2,7 @@
 Simple module for deno to fetch memes from a subreddit.
 
 # Example
-- Create a file named `index.js` or `index.ts`
+- Create a file
 - Put the code similar to:
 
 ```ts
