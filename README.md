@@ -2,9 +2,6 @@
 Simple module for deno to fetch memes from a subreddit.
 
 # Example
-- Create a file
-- Put the code similar to:
-
 ```ts
 import memer from "https://deno.land/x/memes/mod.ts";
 
